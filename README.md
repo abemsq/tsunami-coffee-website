@@ -6,7 +6,7 @@ Throughout this project, you’ll edit the existing Tsunami Coffee website code 
 that the website appears correctly on varying screen sizes. In addition, you’ll
 contribute styles that will make this website more visually appealing.
 
-[!image](https://github.com/abemsq/tsunami-coffee-website/blob/master/image.png)
+![image](https://github.com/abemsq/tsunami-coffee-website/blob/master/image.png)
 
 ## HTML
 ```
